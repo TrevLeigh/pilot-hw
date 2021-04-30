@@ -1,0 +1,7 @@
+@import './partials/_colors.scss';
+@import './partials/_text.scss';
+
+.th-header {
+    @extend .th-lg-text;
+    color: $th-purple-d-800;
+}

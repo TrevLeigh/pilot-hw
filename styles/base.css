@@ -1,0 +1,60 @@
+.th-purple-primary {
+  color: #9c27b0;
+}
+
+.th-purple-l-50 {
+  color: #f3e5f5;
+}
+
+.th-purple-l-100 {
+  color: #e1bee7;
+}
+
+.th-purple-l-200 {
+  color: #ce93d8;
+}
+
+.th-purple-l-300 {
+  color: #ba68c8;
+}
+
+.th-purple-l-400 {
+  color: #ab47bc;
+}
+
+.th-purple-d-600 {
+  color: #8e24aa;
+}
+
+.th-purple-d-700 {
+  color: #7b1fa2;
+}
+
+.th-purple-d-800 {
+  color: #6a1b9a;
+}
+
+.th-purple-d-900 {
+  color: #4a148c;
+}
+
+.th-lg-text, .th-header {
+  font-size: 17px;
+  line-height: 28px;
+}
+
+.th-md-text {
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.th-sm-text {
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.th-header {
+  color: #6a1b9a;
+}
+
+/*# sourceMappingURL=base.css.map */
